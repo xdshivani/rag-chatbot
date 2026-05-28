@@ -39,6 +39,7 @@ project/
 ├── requirements.txt
 ├── README.md
 └── sample.pdf
+└── rag_chatbot.png
 ```
 
 ---
@@ -232,4 +233,8 @@ Enhance UI/UX
 Optimize chunking and embeddings
 Fix bugs
 
-If you'd like to contribute, feel free to open a Pull Request 🚀
+If you'd like to contribute, feel free to open a Pull Request
+
+📸 Screenshot
+![Chatbot Screenshot](rag_chatbot.png)
+
